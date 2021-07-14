@@ -22,7 +22,7 @@ Folder             | Description
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`298084 | SUKANYA DEKA | Complete project   | 6  | 3     |
+|298084 | SUKANYA DEKA | Complete project   | 6  | 3     |
 
 
 ## Challenges Faced and How Was It Overcome
@@ -30,7 +30,7 @@ Folder             | Description
 1. **Generation of makefile:** To overcome this problem research on makefiles was done.
 2. **Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
 3. **Worflow actions** Initially errors with respect to make file was occured , latter corrected by debbugging the errors.
-4. **Working with powershell and bash** To overcome the issues faced while using terminal was overcomed by the resources provided in Future skills.
+
 
 ## Learning Resources
 1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
