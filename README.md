@@ -5,7 +5,9 @@
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 
-[![CI](https://github.com/sukanyadeka/Calendar/actions/workflows/main.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/sukanyadeka/Calendar/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/c-cpp.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/sukanyadeka/Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/sukanyadeka/Calendar/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/git_inspector.yml)
 
 
 ## Folder Structure
@@ -20,7 +22,7 @@ Folder             | Description
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`298084 | SUKANYA DEKA | Complete project   | 8   | 8     |
+|`298084 | SUKANYA DEKA | Complete project   | 6  | 3     |
 
 
 ## Challenges Faced and How Was It Overcome
