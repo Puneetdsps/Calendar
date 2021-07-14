@@ -5,4 +5,4 @@
 
 * Tools: MS Excel, MS word or Similar
 
-![alt text](6_ImagesAndVideos\SWOT Analysis.jpg)
+![alt text](https://github.com/sukanyadeka/Calendar/blob/alpha/6_ImagesAndVideos/SWOT%20Analysis.jpg)
