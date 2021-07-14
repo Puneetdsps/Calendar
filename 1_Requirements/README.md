@@ -5,3 +5,4 @@
 
 * Tools: MS Excel, MS word or Similar
 
+![alt text](6_ImagesAndVideos\SWOT Analysis.jpg)
