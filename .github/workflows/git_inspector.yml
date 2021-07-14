@@ -3,9 +3,9 @@ name: Contribution Check - Git Inspector
 on:
   # Triggers the workflow on push or pull request events but only for the alpha branch
   push:
-    branches: [ alpha ]
+    branches: [ master ]
   pull_request:
-    branches: [ alpha ]
+    branches: [ master ]
 
 jobs:
   inspect:
