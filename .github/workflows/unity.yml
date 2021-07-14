@@ -1,0 +1,19 @@
+name: Unit Testing
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the alpha branch
+  push:
+    branches: [ alpha ]
+  pull_request:
+    branches: [ alpha ]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make
+      run: make -C 3_Implementation/ test
