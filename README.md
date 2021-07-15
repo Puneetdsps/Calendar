@@ -24,7 +24,7 @@ Folder             | Description
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|298084 | SUKANYA DEKA | Complete project   | 6  | 3     |
+|298084 | SUKANYA DEKA | Complete project   | 4  | 4    |
 
 
 ## Challenges Faced and How Was It Overcome
