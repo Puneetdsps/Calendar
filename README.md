@@ -8,6 +8,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 [![C/C++ CI](https://github.com/sukanyadeka/Calendar/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/sukanyadeka/Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/sukanyadeka/Calendar/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/git_inspector.yml)
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/sukanyadeka/Calendar/actions/workflows/dynamic.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/dynamic.yml)
+[![CI-Coverage](https://github.com/sukanyadeka/Calendar/actions/workflows/gcov.yml/badge.svg)](https://github.com/sukanyadeka/Calendar/actions/workflows/gcov.yml)
 
 
 ## Folder Structure
