@@ -19,7 +19,6 @@ TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 INC_TEST	= -Iinc\
 -Iunity\
 
-INC = inc
 
 
 # Project Output name
